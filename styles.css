@@ -101,4 +101,7 @@ input[type="radio"]{
           #Score{
         font-size: 12px;
     }
+      #score{
+          font-size : 12px;
+      }
   }
