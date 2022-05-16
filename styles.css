@@ -67,3 +67,28 @@ input[type="radio"]{
     margin: 5px 0 5px 0;
     margin-right: 10px;
   }
+
+  @media only screen and (max-width: 500px) {
+    *{
+        margin: 0;
+        padding: 0;
+        background-color: #fcd9fe;
+    
+    }
+    .questions{
+
+
+
+    
+        padding: 8px;
+        display: grid;
+        grid-template-columns:1fr;
+        grid-auto-rows: minmax(20em,auto);
+        background-color: #181418;
+        gap: 5px;
+        text-align: left;
+        color: #181418;
+        font-family: 'Poppins','helvetica','sans-serif';
+        
+    }
+  }
