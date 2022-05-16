@@ -91,4 +91,11 @@ input[type="radio"]{
         font-family: 'Poppins','helvetica','sans-serif';
         
     }
+          #EB{
+        text-align: center;
+        font-family: 'Poppins', 'Helvetica Neue','sans-serif';
+        font-size: 12px;
+        color:#181418;
+        margin: 0.5em 0 0.5em 0;
+    }
   }
